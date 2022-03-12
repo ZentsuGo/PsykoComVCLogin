@@ -1,6 +1,6 @@
 # PsykoComVCLogin
 
-Le projet PsykoComVCLogin est un projet débuté en 2014.
+Le projet PsykoComVCLogin est un projet que j'ai débuté en 2014.
 
 Le projet consiste à créer un logiciel similaire à Skype qui permet la communication entre plusieurs personnes en ligne,
 composé d'un système de serveur hébergeable sur machine personnelle et des clients (fenêtres) qui se connectent directement à celui-ci.
@@ -11,4 +11,4 @@ La partie de sécurité qui encrypte les données n'a pas été gérée et le pr
 Le projet contient principalement les fichiers partie client et une partie côté serveur.
 Un système d'inscription sur base de données locale est possible par le biais de sqlite, permettant l'utilisation de comptes entre utilisateurs.
 
-Le projet est basé sur l'utilisation des bilbiothèques java.awt et javax.swing pour permettre l'interface graphique.
+Le programme est basé sur l'utilisation des bilbiothèques java.awt et javax.swing pour permettre l'interface graphique.
