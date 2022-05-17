@@ -13,3 +13,25 @@ Le projet contient principalement les fichiers partie client et une partie côt�
 Un système d'inscription sur base de données locale est possible par le biais de sqlite, permettant l'utilisation de comptes entre utilisateurs.
 
 Le programme est basé sur l'utilisation des bilbiothèques java.awt et javax.swing pour permettre l'interface graphique.
+
+Le logiciel constitue un ensemble de sous logiciels :
+
+
+La fenêtre de login ou de connexion au serveur :
+
+![alt text](https://github.com/zentsugo/PsykoComVCLogin/blob/main/psykocom-login.PNG?raw=true)
+
+
+Le client qui comporte des sections différentes pour discuter, voir les membres connectés sur le serveur, etc :
+
+![alt text](https://github.com/zentsugo/PsykoComVCLogin/blob/main/psykocom-client.PNG?raw=true)
+
+
+Le serveur qui consiste plus en un ensemble de connexions et échanges avec plusieurs flux qui composent les clients qu'en une fenêtre en soi :
+
+![alt text](https://github.com/zentsugo/PsykoComVCLogin/blob/main/psykocom-server.PNG?raw=true)
+
+
+La fenêtre pour s'inscrire dans la base de données locale de l'hébergeur du serveur :
+
+![alt text](https://github.com/zentsugo/PsykoComVCLogin/blob/main/psykocom-register.PNG?raw=true)
